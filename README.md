@@ -1,7 +1,7 @@
 # jgenerator
 A simple CMS generator for freelancers
 
-jGenerator is a simple CMS generator for freelancers and developers. Made with ♥ in Mexico
+jGenerator is a simple CMS generator for freelancers and developers.
 
 Main Features:
 - SQL Management and Connectors
